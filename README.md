@@ -19,6 +19,7 @@ Post part-time job opportunities with details such as title, description, locati
 
 Edit or remove job postings as needed.
 
+
 Job seekers can:
 
 Search and filter job postings based on title, location, or payment range.
@@ -29,6 +30,7 @@ Artisans can:
 List homemade products with details such as title, description, and price.
 
 Edit or remove homemade products as needed.
+
 
 Customers can:
 
